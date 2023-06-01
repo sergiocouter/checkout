@@ -4,9 +4,6 @@
 # Tecnologias Utilizadas
 > React, Typescript, Material UI
 
-# Desafios
-> Aprender sobre o Material Ui
-
 # Aprendizados
 > Aprendi bastante lendo a biblioteca do Material UI e na utilização dos seu componentes
 
